@@ -1,6 +1,6 @@
-describe('test_name', function() {
+describe('Calypso Test', function() {
 
-    it('what_it_does', function() {
+    it('Login Test', function() {
    
        cy.viewport(1224, 677)
     
